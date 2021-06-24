@@ -11,6 +11,6 @@ Get your first taste of deep learning by applying style transfer to your own ima
 ## Neural Networks
 Learn neural networks basics, and build your first network with Python and NumPy. Use the modern deep learning framework PyTorch to build multi-layer neural networks, and analyze real data.
 
-### Predicting Bike-Sharing Patterns (Project)
+#### - 1st (Project): Predicting Bike-Sharing Patterns 
 Build and train neural networks from scratch to predict the number of bikeshare users on a given day.
 
