@@ -35,5 +35,5 @@ Build a pair of multi-layer neural networks and make them compete against each o
 ## Deploying a Sentiment Analysis Model
 Train and deploy your own PyTorch sentiment analysis model. Deployment gives you the ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for accessing it from a website.
 
-#### - 4th (Project): Deploying a Sentiment Analysis Model
+#### - 5th (Project): Deploying a Sentiment Analysis Model
 Train and deploy your own PyTorch sentiment analysis model. You’ll build a model and create a gateway for accessing it from a website.
