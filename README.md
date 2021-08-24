@@ -17,13 +17,13 @@ By Leena AlQasem
 ## Convolutional Neural Networks
 "Learn how to build convolutional networks and use them to classify images (faces, melanomas, etc.) based on patterns and objects that appear in them. Use these networks to learn data compression and image denoising."
 
-#### - 2nd (Project): Landmark Classification & Tagging for Social Media
+#### - [2nd (Project): Landmark Classification & Tagging for Social Media](https://github.com/LeenaAAlQasem/Deep-Learning-Nanodegree-Program/tree/main/Landmark%20Classification%20%26%20Tagging%20for%20Social%20Media)
 "In the project, you will go through a machine learning design process end-to-end: performing data preprocessing and augmentation, designing your own CNN from scratch, and training and saving your best CNN model. You will also use transfer learning and compare your transfer-learned model with your from-scratch CNN."
 
 ## Recurrent Neural Networks
 "Build your own recurrent networks and long short-term memory networks with PyTorch; perform sentiment analysis and use recurrent networks to generate new text from TV scripts."
 
-#### - 3rd (Project): Generate TV scripts
+#### - [3rd (Project): Generate TV scripts](https://github.com/LeenaAAlQasem/Deep-Learning-Nanodegree-Program/tree/main/dlnd_tv_script_generation)
 "Build a recurrent neural network on TensorFlow to process text. Use it to generate new episodes of your favorite TV show, based on old scripts."
 
 ## Generative Adversarial Networks
