@@ -35,7 +35,7 @@ By Leena AlQasem
 ## Deploying a Sentiment Analysis Model
 "Train and deploy your own PyTorch sentiment analysis model. Deployment gives you the ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for accessing it from a website." 
 
-#### - 5th (Project): Deploying a Sentiment Analysis Model
+#### - [5th (Project): Deploying a Sentiment Analysis Model](https://github.com/LeenaAAlQasem/Deep-Learning-Nanodegree-Program/tree/main/Deploying%20a%20sentiment%20analysis)
 "Train and deploy your own PyTorch sentiment analysis model. You’ll build a model and create a gateway for accessing it from a website."
 
 ### Reference: https://www.udacity.com/course/deep-learning-nanodegree--nd101
