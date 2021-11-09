@@ -1,5 +1,5 @@
-# Deep-Learning-Nanodegree-Program
-By Leena AlQasem
+<h1 align="center">Deep Learning Nanodegree</h1>
+By Leena AlQasem | Leenabdulh@gmail.com 
 
 
 ### PREREQUISITE KNOWLEDGE
